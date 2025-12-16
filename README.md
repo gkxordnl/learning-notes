@@ -1,2 +1,4 @@
-# learning-notes
-My first GitHub repository
+# 我的 GitHub 学习笔记
+
+这是我第一次使用 GitHub。
+这个仓库用来记录我的学习过程。
